@@ -11,4 +11,15 @@
 * [Windows](http://jupyter.readthedocs.io/en/latest/install.html)
 * [Mac](https://tproger.ru/translations/jupyter-notebook-python-3/)
 
-Через `pip` или `conda` так же установить следующие пакеты: _pygraphviz_, _matplotlib_ для визуализации решений.
+Через `pip` или `conda` так же установить следующие пакеты: _pygraphviz_, [_matplotlib_](https://matplotlib.org/users/installing.html) для визуализации решений.
+
+### Получить материал
+
+1. Скачать репозиторий в формате `.zip`.
+2. Использовать непосредственно git и
+```git clone https://github.com/nasoboleva/Lyceum-Graphs-Course.git```
+
+
+## Перед началом работы
+
+К первому занятию (26.04) необходимо настроить работу _Jupyter Notebook_ и выполнить тетрадку [TestJupytherNotebook](https://github.com/nasoboleva/Lyceum-Graphs-Course/blob/master/TestJupytherNotebook.ipynb).
