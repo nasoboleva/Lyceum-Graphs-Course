@@ -17,3 +17,8 @@
 __*Важно*__. Графы в задачах не должны повторятся!
 
 \+ практическая часть в тетрадке [Binary Trees](https://github.com/nasoboleva/Lyceum-Graphs-Course/blob/master/labs/BinaryTrees.ipynb) (обход деревьев).
+
+#### Задание 4 ("пока" до 17.05 10:30):
+_Примечание._ В основной части присутствуют автоматические проверки, перед сдачей убедитесь, что ваш код успещно проходит эти базовые проверки.
+* __Задание 1:__ Выполнить основную часть тетрадки [BinarySearchTree](https://github.com/nasoboleva/Lyceum-Graphs-Course/blob/master/labs/BinarySearchTree.ipynb) - 10 баллов из 20
+* __Задание 2:__ Выполнить часть "Домашнее задание" тетрадки [BinarySearchTree](https://github.com/nasoboleva/Lyceum-Graphs-Course/blob/master/labs/BinarySearchTree.ipynb) - 10 (+5 бонусных) баллов из 20
