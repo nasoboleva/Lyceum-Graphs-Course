@@ -21,6 +21,10 @@ _Примечание._ В основной части присутствуют 
 * __Задание 1:__ Выполнить основную часть тетрадки [BinarySearchTree](https://github.com/nasoboleva/Lyceum-Graphs-Course/blob/master/labs/BinarySearchTree.ipynb) - 10 баллов из 20
 * __Задание 2:__ Выполнить часть "Домашнее задание" тетрадки [BinarySearchTree](https://github.com/nasoboleva/Lyceum-Graphs-Course/blob/master/labs/BinarySearchTree.ipynb) - 10 (+5 бонусных) баллов из 20
 
+#### Задание 5 (до 31.05 10:30):
+_Примечание._ В основной части присутствуют автоматические проверки, перед сдачей убедитесь, что ваш код успешно проходит эти базовые проверки.
+* __Задание 1:__ Выполнить основную часть тетрадки [DijkstraAlgorithm](https://github.com/nasoboleva/Lyceum-Graphs-Course/blob/master/labs/DijkstraAlgorithm.ipynb) - 10 баллов из 10 (+бонусы)
+
 ### Tutorial по установке Jupyter Notebook:
 
 [Общий](https://tproger.ru/translations/jupyter-notebook-python-3/) (Там есть про все) и чуть более конкретно.
